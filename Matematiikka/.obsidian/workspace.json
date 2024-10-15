@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "7b8c4afdd1e18d97",
+    "id": "9f457f81ef16f55f",
     "type": "split",
     "children": [
       {
-        "id": "7108667e572ea0d7",
+        "id": "e870fa4c712bceac",
         "type": "tabs",
         "children": [
           {
-            "id": "1893af889c70de7c",
+            "id": "2889f5e5046f6cbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fysikaalinen systeemi, suureet ja yksiköt.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "43c048e620094ba3",
+    "id": "f52627824e6ffe57",
     "type": "split",
     "children": [
       {
-        "id": "4bb9f403bc9c228a",
+        "id": "e02014707ac083b7",
         "type": "tabs",
         "children": [
           {
-            "id": "41825c2d79206aef",
+            "id": "d55e11911d1baa1e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "c4f62b3204960926",
+            "id": "0beb09041d5b31d1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "c3cba306db375644",
+            "id": "ae9c8cbd4d7075a2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,24 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "7004b8c422660147",
+    "id": "4ad564449dcec615",
     "type": "split",
     "children": [
       {
-        "id": "56a3234084d3e782",
+        "id": "4b6b499e5b8d567a",
         "type": "tabs",
         "children": [
           {
-            "id": "ec940d845e8edcd1",
+            "id": "b0c2f5eb9780545f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysikaalinen systeemi, suureet ja yksiköt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +92,18 @@
             }
           },
           {
-            "id": "b3e00d532ae4857f",
+            "id": "f1a67bd851f48dc6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysikaalinen systeemi, suureet ja yksiköt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c3cb7b1dc85c5987",
+            "id": "2b033f13de295e83",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,13 +114,11 @@
             }
           },
           {
-            "id": "2ed94396cad2a497",
+            "id": "4422786a2ce301fa",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fysikaalinen systeemi, suureet ja yksiköt.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,9 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1893af889c70de7c",
-  "lastOpenFiles": [
-    "Fysikaalinen systeemi, suureet ja yksiköt.md",
-    "Welcome.md"
-  ]
+  "active": "2889f5e5046f6cbf",
+  "lastOpenFiles": []
 }
